@@ -1,0 +1,19 @@
+Tetris Project by Avo Alexanian and Gayane Ghazaryan 
+
+Avo Alexanian - Front-End Development 
+IntroPage
+GameInfo
+GameFrame
+Board
+EastPanel
+
+
+
+
+Gayane Ghazaryan - Back-End Development
+GameEngine
+Shape
+Tetromino
+UpcomingTetromino
+
+
